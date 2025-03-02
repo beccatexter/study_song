@@ -1,5 +1,5 @@
-# Easy_Project_Template
+# Study_Songs_AI
 
-This simple project template is designed to simplify the setup process for new programmers creating static websites.
+This website will be designed to take in user input, including study materials and preferred genre of music, and use generative AI to create a catchy tune for studying.
 
-Just fork the repository and start building! 😊
+This project was created for HenHacks 2025 by Amanda Giles and Rebecca Texter.
